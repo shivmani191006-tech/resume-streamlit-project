@@ -1,0 +1,49 @@
+MAYA SHARMA
+maya.sharma@example.com | +91 00000 00000 | Bengaluru, India
+LinkedIn: linkedin.com/in/maya-sharma-demo | GitHub: github.com/maya-sharma-demo
+
+PROFESSIONAL SUMMARY
+Data analyst with 3 years of experience turning operational and product data into clear recommendations. Skilled in Python, SQL, pandas, and Power BI, with experience building automated reports, validating data pipelines, and presenting findings to non-technical teams. Interested in data analyst and business intelligence roles.
+
+TECHNICAL SKILLS
+Programming: Python, SQL
+Libraries: pandas, NumPy, scikit-learn, Matplotlib
+BI and reporting: Power BI, Excel, Tableau
+Data: PostgreSQL, MySQL, data cleaning, exploratory analysis, dashboard design
+Tools: Git, Jupyter Notebook, Streamlit
+
+PROFESSIONAL EXPERIENCE
+Data Analyst | Northstar Retail Labs (fictional) | Bengaluru, India
+June 2023 – Present
+- Analyze sales and customer behavior across 120,000+ monthly transactions using SQL and Python.
+- Built Power BI dashboards for revenue, inventory, and customer retention, reducing weekly reporting time by about  six hours.
+- Automated data cleaning and validation with pandas, cutting recurring spreadsheet errors by 30%.
+- Partner with product and operations teams to define metrics and communicate findings to non-technical stakeholders.
+
+Junior Data Analyst | Cedar Analytics Studio (fictional) | Bengaluru, India
+July 2021 – May 2023
+- Prepared and reconciled datasets from CRM, web analytics, and finance sources using SQL and Excel.
+- Created monthly reports and visualizations that helped the sales team identify underperforming product categories.
+- Documented data definitions and repeatable analysis steps for a five-person analytics team.
+
+PROJECTS
+Customer Churn Exploration | Python, pandas, scikit-learn
+- Cleaned a public customer churn dataset and explored behavior by tenure, contract type, and service usage.
+- Trained and evaluated baseline logistic regression and decision tree models; documented precision and recall trade-offs.
+- Summarized practical retention questions for a hypothetical subscription business.
+
+Retail Performance Dashboard | Power BI, SQL
+- Designed a dashboard to track sales, average order value, product returns, and regional trends.
+- Added date and category filters and wrote SQL queries to prepare monthly summary tables.
+
+EDUCATION
+Bachelor of Engineering in Information Science
+Example Institute of Technology (fictional) | 2021
+
+CERTIFICATIONS
+- Google Data Analytics Professional Certificate, 2022
+- Microsoft Power BI Data Analyst learning path, 2023
+
+ADDITIONAL
+Languages: English, Hindi, Kannada
+Availability: Open to data analyst and business intelligence opportunities
